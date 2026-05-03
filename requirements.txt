@@ -1,0 +1,23 @@
+# Weeping Ghosts Eve Echoes Discord Bot – Dependencies
+
+# Discord
+discord.py>=2.3.2
+
+# Async SQLite
+aiosqlite>=0.19.0
+
+# Env file loading
+python-dotenv>=1.0.0
+
+# OpenAI (Vision + AI agent)
+openai>=1.30.0
+
+# Image processing
+Pillow>=10.3.0
+
+# HTTP client (screenshot fetching)
+aiohttp>=3.9.0
+
+# Optional: local OCR fallback
+# pytesseract>=0.3.10
+# tesseract must be installed separately via apt: sudo apt install tesseract-ocr
